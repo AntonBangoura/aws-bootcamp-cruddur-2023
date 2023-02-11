@@ -2,7 +2,7 @@
 
 - Application: Cruddur
 - Cohort: 2023-A1
-- Team: CloudOpsUS
+- Team: CloudOpsEU
 
 This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023
 
