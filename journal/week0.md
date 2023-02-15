@@ -19,3 +19,5 @@ Homework Challenges - 0:
 https://www.youtube.com/watch?v=OdUnNuKylHg
 <br>
 https://www.linuxtek.ca/2023/02/12/aws-cloud-project-bootcamp-week-0-unofficial-homework-guide/<br>
+
+login: bootcamp
