@@ -21,3 +21,13 @@ https://www.youtube.com/watch?v=OdUnNuKylHg
 https://www.linuxtek.ca/2023/02/12/aws-cloud-project-bootcamp-week-0-unofficial-homework-guide/<br>
 
 login: bootcamp
+Bootcamp Outline => https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0/edit
+FAQ => https://docs.google.com/document/d/1VEs2i_tm1FxUatu1ZfUZH8EEVlhN9XWpVDvqg7GYeKM/edit 
+aelshimy — 02/11/2023 8:11 PM
+Cnatrill Catpipeline 
+https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-codepipeline-catpipeline 
+TOGAF Archticture Framework 
+https://www.opengroup.org/togaf
+Mitch — Yesterday at 4:34 PM
+CloudSecurityPodcast => https://www.youtube.com/@CloudSecurityPodcast/videos
+Docker => https://www.youtube.com/watch?v=pg19Z8LL06w
